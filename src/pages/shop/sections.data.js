@@ -10,14 +10,14 @@ const SECTIONS_DATA = [
 
     },
     {
-        title: 'iPod',
+        title: 'Accessories',
         // imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
         imageUrl: 'images/jackets.png', // local file in public/images/
         id: 2,
         linkUrl: 'shop/jackets'
     },
     {
-        title: 'Accessories',
+        title: 'Watch',
         // imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
         imageUrl: 'images/sneakers.png', // local file in public/images/
         id: 3,

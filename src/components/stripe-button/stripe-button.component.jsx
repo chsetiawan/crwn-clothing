@@ -13,10 +13,10 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout 
       label='Pay Now'
-      name='Blockbuster 2020'
+      name='Apple Aftermarket'
       billingAddress
       shippingAddress
-      image="https://svgshare.com/i/CUz.svg"
+      image="https://storecba.com/wp-content/uploads/2020/09/logo-apple.png"
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel='Pay Now'

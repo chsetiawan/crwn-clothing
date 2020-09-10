@@ -16,7 +16,10 @@
       height: 100%;
     }
   }
-  .name,
+  .name {
+    width: 23%;
+    padding-right: 10px;
+  }
   .quantity,
   .price {
     width: 23%;
